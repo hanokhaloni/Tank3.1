@@ -463,7 +463,11 @@ PlayerSettings:
   XboxOnePersistentLocalStorageSize: 0
   vrEditorSettings: {}
   cloudServicesEnabled:
-    UNet: 1
+    Build: 0
+    Collab: 0
+    ErrorHub: 0
+    Hub: 0
+    UNet: 0
   cloudProjectId: 9709c92e-9ed3-41f8-bde7-fb143c3414d3
   projectName: Tank3.1
   organizationId: hanokh-aloni
